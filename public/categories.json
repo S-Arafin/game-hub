@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "All Games"
+  },
+  {
+    "id": 1,
+    "name": "FPS"
+  },
+  {
+    "id": 2,
+    "name": "Adventure"
+  },
+  {
+    "id": 3,
+    "name": "RPG"
+  },
+  {
+    "id": 4,
+    "name": "Strategy"
+  },
+  {
+    "id": 5,
+    "name": "Action"
+  }
+]
